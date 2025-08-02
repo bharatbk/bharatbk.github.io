@@ -10,6 +10,13 @@ layout: default
 
 This a collection of projects / analyses:
 
+
+## Hospital Flow Analysis (2025)
+A fullstack React and FastAPI implementation of a hospital patient flow simulation application.
+
+[Repository](https://github.com/bharatbk/hospital-flow-simulator)
+
+
 ## Puerto Rico - Hurricane Fiona Modeling (2025)
 Modeling the impacts of Hurricane Fiona as it relates to density of ships in and around the storm.
 
